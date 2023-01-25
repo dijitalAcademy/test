@@ -1,0 +1,65 @@
+html, body {
+  height: 100%;
+  width: 100%;
+}
+
+body {
+  font-family: Arial;
+  background-color: orange;
+  color: darkblue;
+  background-image: linear-gradient( to right, gold, orange);
+}
+
+a {
+  color: teal;
+  font-weight: bold;
+}
+
+h1 {
+  margin: 5%;
+}
+
+p{
+  margin: 10px
+}
+
+.grid-container {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  grid-gap: 20px;
+}
+
+img {
+  border-radius: 20px;
+}
+
+iframe {
+  border-radius: 20px;
+}
+
+/* after tip calc html n js */
+
+#tipClac {
+  text-align: center;
+}
+
+.tipGrid {
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr 1fr;
+  grid-gap: 20px;
+  font-size: 20;
+  font-weight: bold;
+}
+.tipValue {
+  font-size: 25;
+  color: white;
+  font-weight: bolder;  
+}
+
+button {
+  
+}
+
+button:hover {
+  background-color: white;
+}
