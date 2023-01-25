@@ -1,7 +1,7 @@
 Welcome to the test curriculum site
 
-</101/>
-</102/curriculum>
-</201/curriculum>
-</301/curriculum>
-</401/curriculum>
+[101 - Explore Software Development](/101/)
+[102 - ](/102/curriculum)
+[102 - Foundations](/201/curriculum)
+[301 - Intermediate](/301/curriculum)
+[401 - Advanced](/401/curriculum)
