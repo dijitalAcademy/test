@@ -1,5 +1,6 @@
 Welcome to the test curriculum site
 
+[Code School Growth Plan](/test/Roadmap) <br/>
 [101 - Explore Software Development](/test/101/) <br/>
 [102 - Introduction](/test/102/curriculum) <br/>
 [201 - Foundations](/test/201/curriculum) <br/>
